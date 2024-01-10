@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kotlin_bmi</string>
+    <string name="body_mass_index">Body Mass Index</string>
+    <string name="height">Height ( m )</string>
+    <string name="weight">Weight ( Kg )</string>
+    <string name="result">body mass is %1$s</string>
+</resources>
